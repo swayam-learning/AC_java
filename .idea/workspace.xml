@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java basics started">
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/SeventhVideo_advancePatterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/SixthVideo_patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/SixthVideo_patterns.java" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SixthVideo_patterns">
+  <component name="RunManager" selected="Application.SeventhVideo_advancePatterns">
     <configuration name="FifthVideo_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.FifthVideo_loops" />
       <module name="AC_java" />
@@ -81,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondVideo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.SecondVideo" />
+    <configuration name="SeventhVideo_advancePatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.SeventhVideo_advancePatterns" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeventhVideo_advancePatterns" />
         <item itemvalue="Application.SixthVideo_patterns" />
         <item itemvalue="Application.FifthVideo_loops" />
         <item itemvalue="Application.FourthVideo_conditionals" />
         <item itemvalue="Application.ThirdVideo" />
-        <item itemvalue="Application.SecondVideo" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698472705438</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java basics started">
+      <created>1698489122368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698489122368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
