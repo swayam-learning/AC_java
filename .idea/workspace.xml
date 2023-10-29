@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java basics started" />
+    <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java basics started">
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/EigthVideo_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/OOPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -51,9 +58,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SeventhVideo_advancePatterns">
-    <configuration name="FifthVideo_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.FifthVideo_loops" />
+  <component name="RunManager" selected="Application.OOPS (1)">
+    <configuration name="EigthVideo_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.EigthVideo_Functions" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +72,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FourthVideo_conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.FourthVideo_conditionals" />
+    <configuration name="OOPS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.OOPS" />
+      <module name="AC_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AC_Java_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.OOPS" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdVideo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.ThirdVideo" />
-      <module name="AC_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPS (1)" />
+        <item itemvalue="Application.OOPS" />
+        <item itemvalue="Application.EigthVideo_Functions" />
         <item itemvalue="Application.SeventhVideo_advancePatterns" />
         <item itemvalue="Application.SixthVideo_patterns" />
-        <item itemvalue="Application.FifthVideo_loops" />
-        <item itemvalue="Application.FourthVideo_conditionals" />
-        <item itemvalue="Application.ThirdVideo" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698502677044</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java basics started">
+      <created>1698503610282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698503610282</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
