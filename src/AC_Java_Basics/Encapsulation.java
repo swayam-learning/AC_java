@@ -6,4 +6,5 @@ public class Encapsulation {
     //data hiding is the process of protecting members of class form unintended changes whereas
     //abstraction is hiding the implementation of details and showing only important/useful parts to the user.
 
+
 }
