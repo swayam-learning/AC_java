@@ -6,10 +6,10 @@ class vidyaarth{
     // class is a logical construct
     //object is an instance of a class
     //state of the object is basically the value of the object
-    
-}
-public class Fucntions_methods {
-    public static void main(String[] args) {
 
+}
+public class Functions_methods {
+    public static void main(String[] args) {
+        System.out.println("Just checking");
     }
 }
