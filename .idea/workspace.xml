@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java basics started">
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/interfaces_learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/acess_modifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/acess_modifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/inheritance/Inheritance_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/inheritance/Inheritance_types.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
