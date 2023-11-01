@@ -29,4 +29,5 @@ static void change(int a[]){
     a[0]=99;//here we are not creating a new object rather we are making change in the original object
 //    int ar[]={3, 24, 56, 78};//here the original array will remain intact because we are creating a new object
 }
+// scoping basically that the scope of a variable is limited within scope
 }
