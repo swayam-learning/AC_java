@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java functions started">
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Questions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/shadowing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VarArgs">
+  <component name="RunManager" selected="Application.Questions">
     <configuration name="BlockScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.kk_functions.BlockScope" />
       <module name="AC_java" />
@@ -112,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.kk_functions.Questions" />
+      <module name="AC_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AC_Java_Basics.kk_functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.kk_functions.VarArgs" />
       <module name="AC_java" />
@@ -125,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaces_learning (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.interfaces_learning" />
-      <module name="AC_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Questions" />
         <item itemvalue="Application.VarArgs" />
         <item itemvalue="Application.BlockScope" />
         <item itemvalue="Application.Internal_working_functions" />
         <item itemvalue="Application.Functions_methods" />
-        <item itemvalue="Application.interfaces_learning (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698846899952</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="java functions started">
+      <created>1698847794156</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698847794156</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
