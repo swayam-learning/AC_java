@@ -5,7 +5,7 @@ public class shadowing {
     //and will be shadowed at line 8
     public static void main(String[] args) {
         System.out.println(x);//90
-        int x=40;
+        int x=40;//scope will begin when the value is initialised adn not when the value is declared
         System.out.println(x);//40
         fun();
     }
