@@ -7,7 +7,6 @@ interface animals{
 }
 interface omnivore{
     void eat();
-
 }
 class dog implements animals,omnivore{
     //this  is called multiple inheritance and can only be implemented using interfaces

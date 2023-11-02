@@ -20,5 +20,5 @@ public class polymorphism {
         s1.printinfo(s1.age);
     }
 }
-//this is called function overloading that is the functions can have same name but the no of parameters should be different,\
+//this is called function overloading that is the functions can have same name but the no of parameters should be different
 // if the number of parameter is same then there return type should be different

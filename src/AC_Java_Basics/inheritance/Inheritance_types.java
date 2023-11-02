@@ -17,9 +17,9 @@ class Shapes {
 class Circle extends Shapes{
     public void area(int r){
         System.out.println((3.14)*r*r);
-    }//heirarchial inheritance
+    }//hierarchical inheritance
 }
-//multiple inheritance is used using interfaces.
+//multiple inheritance is used using interfaces and not classes.
 //in the case of  multiple inheritance it throws the error a class cannot call multiple classes.
 public class Inheritance_types {
     public static void main(String[] args) {

@@ -9,7 +9,7 @@ public class SecondVideo {
         int  b = 35;
         System.out.println(a+b);
         // data types
-        //primitive : byte,short,char,boolean,int.long,float,double
+        //primitive : byte,short,char,boolean,int,long,float,double
         //non-primitive; String,array,class,object,interface
     }
 }
