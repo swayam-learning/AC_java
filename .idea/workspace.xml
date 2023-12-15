@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java functions started">
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arraylist_basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arrays_basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Multidimensional_arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Multidimensional_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/column_notfixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/reversearray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/swappingvalues_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_OOPS/OOPS_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/EigthVideo_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/EigthVideo_Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/FifthVideo_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/FifthVideo_loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/First_video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/First_video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/FourthVideo_conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/FourthVideo_conditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/OOPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/OOPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/OOPS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/OOPS2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/SecondVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SecondVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/SeventhVideo_advancePatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SeventhVideo_advancePatterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/SixthVideo_patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SixthVideo_patterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/ThirdVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/ThirdVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/acess_modifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/acess_modifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/interfaces_learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/interfaces_learning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Internal_working_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Internal_working_functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Searcing_and_sorting/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +66,11 @@
   </component>
   <component name="RunManager" selected="Application.reversearray">
     <configuration name="Arraylist_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.KK_Arrays.Arraylist_basics" />
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.ArrayList.Arraylist_basics" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.KK_Arrays.*" />
+          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="Multidimensional_arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.KK_Arrays.Multidimensional_arraylist" />
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.ArrayList.Multidimensional_arraylist" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.KK_Arrays.*" />
+          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +96,7 @@
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.KK_Arrays.*" />
+          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,7 +109,7 @@
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.KK_Arrays.*" />
+          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,7 +122,7 @@
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.KK_Arrays.*" />
+          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698911247511</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="java functions started">
+      <created>1702623940882</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1702623940882</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

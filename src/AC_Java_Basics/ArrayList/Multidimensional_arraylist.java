@@ -1,4 +1,4 @@
-package AC_Java_Basics.KK_Arrays;
+package AC_Java_Basics.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
