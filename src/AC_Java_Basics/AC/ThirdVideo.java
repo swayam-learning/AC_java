@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 import java.util.*;
 public class ThirdVideo {
     public static void main(String[] args) {

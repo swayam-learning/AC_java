@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 
 //public class EigthVideo_Functions {
 //        public static void main(String[] args) {

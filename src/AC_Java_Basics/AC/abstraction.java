@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 abstract class animal{ //only a blueprint we don't really care about its existence
     abstract void walk();// this is called final class
     animal(){

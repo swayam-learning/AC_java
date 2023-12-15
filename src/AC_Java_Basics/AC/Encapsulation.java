@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 
 public class Encapsulation {
     // data and its function is combined into one package

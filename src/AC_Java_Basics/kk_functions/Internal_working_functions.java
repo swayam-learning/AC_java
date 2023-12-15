@@ -17,7 +17,7 @@ public class Internal_working_functions {
 //        b=temp;
 ////  a----->20 b----->10
 ////  here in this step we are not changing the original value rather we are working on a copy of the reference so in terms here a=20 and b=10 but
-////  the original value of and b in  the main function still holds true
+////  the original value of a and b in  the main function still holds true
 //        // strings are final classes we cannot modify
 //    }
 public static void main(String[] args) {

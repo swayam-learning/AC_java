@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 interface animals{
     void run();// by default this is public
     int eyes  = 2; //the no of eyes is fixed called static

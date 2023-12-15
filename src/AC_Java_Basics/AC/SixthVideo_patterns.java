@@ -1,4 +1,4 @@
-package AC_Java_Basics;
+package AC_Java_Basics.AC;
 
 public class SixthVideo_patterns {
     public static void main(String[] args) {
