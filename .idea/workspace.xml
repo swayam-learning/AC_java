@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="java functions started">
+    <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Questions/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Questions/SearchInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Questions/SearchInString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Searcing_and_sorting/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SeventhVideo_advancePatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SeventhVideo_advancePatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arrays_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arrays_basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,24 +59,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AC_java\src\AC_Java_Basics\functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reversearray">
-    <configuration name="Arraylist_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.ArrayList.Arraylist_basics" />
+  <component name="RunManager" selected="Application.FindMin">
+    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Questions.FindMin" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
+          <option name="PATTERN" value="AC_Java_Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multidimensional_arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.ArrayList.Multidimensional_arraylist" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Searcing_and_sorting.LinearSearch" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
+          <option name="PATTERN" value="AC_Java_Basics.Searcing_and_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="column_notfixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.KK_Arrays.column_notfixed" />
+    <configuration name="SearchInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Questions.SearchInRange" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
+          <option name="PATTERN" value="AC_Java_Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reversearray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.KK_Arrays.reversearray" />
+    <configuration name="SearchInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Questions.SearchInString" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
+          <option name="PATTERN" value="AC_Java_Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swappingvalues_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.KK_Arrays.swappingvalues_array" />
+    <configuration name="SeventhVideo_advancePatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.AC.SeventhVideo_advancePatterns" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.ArrayList.*" />
+          <option name="PATTERN" value="AC_Java_Basics.AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reversearray" />
-        <item itemvalue="Application.swappingvalues_array" />
-        <item itemvalue="Application.Multidimensional_arraylist" />
-        <item itemvalue="Application.column_notfixed" />
-        <item itemvalue="Application.Arraylist_basics" />
+        <item itemvalue="Application.FindMin" />
+        <item itemvalue="Application.SearchInRange" />
+        <item itemvalue="Application.SearchInString" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.SeventhVideo_advancePatterns" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702623940882</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="ArrayList">
+      <created>1702624736241</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1702624736241</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +387,8 @@
     <MESSAGE value="Java basics startes" />
     <MESSAGE value="java basics started" />
     <MESSAGE value="java functions started" />
-    <option name="LAST_COMMIT_MESSAGE" value="java functions started" />
+    <MESSAGE value="hmm" />
+    <MESSAGE value="ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
   </component>
 </project>

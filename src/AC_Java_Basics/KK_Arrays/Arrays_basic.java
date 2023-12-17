@@ -15,6 +15,9 @@ public class Arrays_basic {
         System.out.println();
 //arrays by default contains 0 or 0.0 or null in case of int ,float,string respectively
         System.out.println(Arrays.toString(arr)); // to show the array values without using for loop
+        Arrays.stream(arr).max();
+
+
     }
 
 }
