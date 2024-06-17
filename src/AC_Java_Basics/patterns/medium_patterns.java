@@ -1,5 +1,5 @@
-package AC_Java_Basics.AC;
-public class SeventhVideo_advancePatterns {
+package AC_Java_Basics.patterns;
+public class medium_patterns {
     public static void main(String[] args) {
 //// Question(10). Butterfly pattern
 ////     *****

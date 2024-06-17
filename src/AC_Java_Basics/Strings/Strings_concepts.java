@@ -23,11 +23,11 @@ public class Strings_concepts {
         System.out.println('a'+'b');
         System.out.println("a"+"b");
         System.out.println((char)('a'+3));
-        System.out.println("a"+1);//integer here will get converted into wrapper class
+        System.out.println("a"+1);//integer here will get converted into wrapper class //not possible in python
         System.out.println("Swayam"+ new ArrayList<>());
 //        System.out.println(new Integer(56)+new ArrayList<>()); // this will give error at least one value should have been string
-        System.out.println(new Integer(567)+" "+new ArrayList<>());
-        System.out.println(" "+new Integer(567)+new ArrayList<>());
+        System.out.println((567)+" "+new ArrayList<>());
+        System.out.println(" "+(567)+new ArrayList<>());
         // in java operator overloading is not applicable but in c++ it is applicable but it is applicable only for + operator
         System.out.println('a'+1);// a is converted to ascii value
         System.out.println((char)('a'+1));

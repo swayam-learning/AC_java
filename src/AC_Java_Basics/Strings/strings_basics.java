@@ -10,7 +10,7 @@ public class strings_basics {
          are stored inside stack memory
          and when we compare them they point to the same object inside the string pool
         */
-        /* when we say strings are immutable it means swe cannot change anything  but if declare a="Barik"
+        /* when we say strings are immutable it means we cannot change anything  but if declare a="Barik"
           here it will work because here we are working with a different object within the same string pool**/
 
         /* when we use == operator it checks whether then reference variable are pointing to the same object**/

@@ -12,17 +12,20 @@ public class FourthVideo_conditionals {
 //            System.out.println("Adult");
 //        }
 // if we are using if without a curly brace only a single will get executed.
-//        if(age<18)
-//            System.out.println("Not Adult");
-        switch(age){
-            case 12:
-                System.out.println("hello");
-                break;
-            case 18:
-                System.out.println("Adult");
-                break;
-            default:
-                System.out.println("Invalid Input");
-        }
+        if(age<18)
+            System.out.println("Not Adult");
+        else if (age>18)
+            System.out.println("adult");
+
+//        switch(age){
+//            case 12:
+//                System.out.println("hello");
+//                break;
+//            case 18:
+//                System.out.println("Adult");
+//                break;
+//            default:
+//                System.out.println("Invalid Input");
+//        }
     }
 }

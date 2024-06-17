@@ -7,10 +7,10 @@ public class Questions {
 //        Q:to check a number is  prime or not
         Scanner inp = new Scanner(System.in);
         int num = inp.nextInt();
-        System.out.println(isPrimes(num));
-        System.out.println(isPrime(num));}
+        System.out.println(isPrimess(num));}
+//        System.out.println(isPrime(num));}
 //efficient method
-    private static Boolean isPrimes(int number) {
+    static boolean isPrimess (int number) {
         if(number<=1){
             return false;}
         else {
@@ -28,18 +28,19 @@ public class Questions {
 
     }
 //    my method
-    private static boolean isPrime(int number){
-        if(number<=1){
-            return false;
-        }
-        else {
-            for (int i = 2; i <=(number/2) ; i++) {
-                if (number%i==0)
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
+//    private static boolean isPrime(int number){
+//        if(number<=1){
+//            return false;
+//        }
+//        else {
+//            for (int i = 2; i <=(number/2) ; i++) {
+//                if (number%i==0)
+//                {
+//                    return false;
+//                }
+//            }
+//            return true;
+//        }
     }
-}
+
+//}

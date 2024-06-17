@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd03f26d-0f94-49e4-b134-dd1899d2af17" name="Changes" comment="hmmm">
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/Questions/easy/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/Questions/easy/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/Questions/easy/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/Questions/easy/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/Questions/easy/q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/fibonacci_Numbers_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/fibonacci_Recursion_optimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/recursions_basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/whyRecursions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_OOPS/OOPS_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Wrapper_Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AC_Java_Basics/patterns/Advance_patterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arrays_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/KK_Arrays/Arrays_basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/BlockScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/BlockScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/AC/FourthVideo_conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/AC/FourthVideo_conditionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SeventhVideo_advancePatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/patterns/medium_patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/AC/SixthVideo_patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/patterns/basic_patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/fibonacci_Recursion_optimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Recursions/fibonacci_Recursion_optimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/Strings/Strings_concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Strings/Strings_concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/Strings/strings_basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/Strings/strings_basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/Questions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_Java_Basics/kk_functions/shadowing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,28 +64,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AC_java\src\AC_Java_Basics\functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q4">
-    <configuration name="fibonacci_Recursion_optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Recursions.fibonacci_Recursion_optimal" />
+  <component name="RunManager" selected="Application.Wrapper_Classes">
+    <configuration name="BlockScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.kk_functions.BlockScope" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.Recursions.*" />
+          <option name="PATTERN" value="AC_Java_Basics.kk_functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Recursions.Questions.easy.q1" />
+    <configuration name="FourthVideo_conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.AC.FourthVideo_conditionals" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.Recursions.Questions.easy.*" />
+          <option name="PATTERN" value="AC_Java_Basics.AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Recursions.Questions.easy.q2" />
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.kk_functions.Questions" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.Recursions.Questions.easy.*" />
+          <option name="PATTERN" value="AC_Java_Basics.kk_functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Recursions.Questions.easy.q3" />
+    <configuration name="SecondVideo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.AC.SecondVideo" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.Recursions.Questions.easy.*" />
+          <option name="PATTERN" value="AC_Java_Basics.AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +133,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Recursions.Questions.easy.q4" />
+    <configuration name="Strings_concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Strings.Strings_concepts" />
       <module name="AC_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AC_Java_Basics.Recursions.Questions.easy.*" />
+          <option name="PATTERN" value="AC_Java_Basics.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wrapper_Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AC_Java_Basics.Wrapper_Classes" />
+      <module name="AC_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AC_Java_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.q4" />
-        <item itemvalue="Application.q3" />
-        <item itemvalue="Application.q2" />
-        <item itemvalue="Application.q1" />
-        <item itemvalue="Application.fibonacci_Recursion_optimal" />
+        <item itemvalue="Application.Wrapper_Classes" />
+        <item itemvalue="Application.Strings_concepts" />
+        <item itemvalue="Application.Questions" />
+        <item itemvalue="Application.BlockScope" />
+        <item itemvalue="Application.FourthVideo_conditionals" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702822061485</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="hmmm">
+      <created>1702991681299</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1702991681299</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

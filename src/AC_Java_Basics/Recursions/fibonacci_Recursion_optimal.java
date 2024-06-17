@@ -2,7 +2,7 @@ package AC_Java_Basics.Recursions;
 
 public class fibonacci_Recursion_optimal {//this code provides you the nth fibonacci number
     public static void main(String[] args) {
-        int ans = fibo(4);
+        int ans = fibo(10);
         //general  fibo(n)=fibo(n-1)+fibo(n-2)
         // if we want to know we can solve a problem with recursion we can try to break the problem into smaller problems
         // this is also known as recurrence relations

@@ -1,6 +1,6 @@
-package AC_Java_Basics.AC;
+package AC_Java_Basics.patterns;
 
-public class SixthVideo_patterns {
+public class basic_patterns {
     public static void main(String[] args) {
 //Question(1).Solid Rectangle
 //*****
